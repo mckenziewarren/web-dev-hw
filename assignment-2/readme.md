@@ -3,6 +3,6 @@ A version control system saves all of the changes you make before publishing the
 
 My [responses](./responses.txt)
 
-This cycle was relatively straightforward. I did encounter some problems with correctly using relative links. I was able to fix this pretty quickly and get my site up and running.
+This cycle the thing that I struggled most with was getting my links correct. The responses link was fairly easy but I struggled to get the deeper level link of the screenshot in. Ultimately I refered to the deeper level linking tutorial on the website and was able to see where I was going wrong. 
 
 ![screenshot](./images/progressScreenshot.png)
