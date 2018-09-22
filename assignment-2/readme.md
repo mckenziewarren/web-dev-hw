@@ -5,4 +5,4 @@ My [responses](./responses.txt)
 
 This cycle was relatively straightforward. I did encounter some problems with correctly using relative links. I was able to fix this pretty quickly and get my site up and running.
 
-My ![screenshot](./images/progressScreenshot.png)
+![screenshot](./images/progressScreenshot.png)
