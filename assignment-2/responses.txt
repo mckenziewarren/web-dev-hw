@@ -1,0 +1,4 @@
+Data travels through the internet in packets. This is groups of information that are sent together but in a mixed up order. They are put back in the correct order when they get to their final destination.
+An IP Address is a string of number attached to a location. The DNS converts those numbers into words, aka google.com
+Cookies are markers that are stored and can identify you to the site you are visiting
+The 3 basic parts of a URL are the protocol, domain name, and path 
