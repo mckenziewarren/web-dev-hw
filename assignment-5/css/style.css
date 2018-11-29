@@ -1,3 +1,24 @@
 body {
-  color: rgb(152, 75, 126)
+  color: white
+}
+.container {
+    color: white
+}
+#main-box {
+    background-color: red;
+    text-align: left;
+    image-orientation: horizontal;
+    font-size: 30
+    /* this should make the rainbow be up and down */
+}
+#second-box {
+    background-color: blue;
+    text-align: center;
+    font-size: 30
+    opacity= 59
+}
+#third-box {
+    background-color: yellow;
+    text-align: right;
+    font-size: 30
 }
